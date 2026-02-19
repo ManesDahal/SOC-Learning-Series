@@ -1,0 +1,43 @@
+# SOC Types and Roles
+
+As a beginner to SOC (Security Operations Center), I realized that understanding SOC starts with its **types and roles**. Without this foundation, tools and advanced concepts can feel confusing.
+
+![SOC Overview](images/SOC-diagram.png)
+
+## What is a SOC?
+
+A Security Operations Center (SOC) is a centralized team that **monitors, detects, analyzes, and responds** to security threats in an organization.
+
+**Purpose:**
+- Detect threats  
+- Analyze suspicious activity  
+- Respond to incidents  
+
+This is achieved through **People, Processes, and Technology** working together.
+
+## SOC Types
+
+1. **In-House SOC** – Managed internally, full control, requires a long-term budget.  
+2. **Virtual SOC** – Remote monitoring, cloud-friendly, flexible.  
+3. **Co-Managed SOC** – Internal team + external MSSP, balanced control.  
+4. **Command SOC** – Central SOC overseeing multiple smaller SOCs.
+
+## People, Process, and Technology
+
+- **People:** Skilled analysts familiar with threats.  
+- **Process:** Procedures, compliance, and escalation paths.  
+- **Technology:** Tools for detection, prevention, analysis, and response.
+
+## SOC Roles
+
+- SOC Analyst  
+- Incident Responder  
+- Threat Hunter  
+- Security Engineer  
+- SOC Manager  
+
+Each role is critical for defending organizations from cyber threats.
+
+---
+
+*This file is part of the SOC Learning Series – beginner-friendly notes to understand Security Operations Centers.*
