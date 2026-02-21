@@ -1,0 +1,34 @@
+# Day 3 – SOC Fundamentals (5W Method)
+
+## What
+SOC monitors, detects, and responds to security events.
+
+## Why
+To detect threats early and reduce impact.
+
+## Who
+Tier 1, Tier 2, Tier 3 analysts and SOC manager.
+
+## When
+24/7 monitoring.
+
+## Where
+Through SIEM dashboards and monitoring tools.
+
+## Key Learning
+Understanding SOC using 5W makes concepts clearer.
+# Sample Alert Investigation
+
+Alert: Multiple Failed Login Attempts
+
+Steps Taken:
+1. Checked source IP
+2. Reviewed user account activity
+3. Verified login time and location
+
+Conclusion:
+Likely brute-force attempt.
+Escalated for further review.
+
+Learning:
+Always check context before closing alerts.
